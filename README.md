@@ -8,3 +8,8 @@ There is always references with links to youtube, stackoverFlow or any other pla
 
 #### But, What is CodeWars :question: :eyes:
 It's a website where you face challenges and you get leveled by how good you do. It isn't limited to JavaScript or any or the languages you can find in this repositore.
+
+#### Have a look how the ranking or level of difficulty works :trophy:
+From 8 to 1 where 8 is the easiest and 1 is the hard core mode :game_die:
+
+[Click here to find the rules](https://docs.codewars.com/gamification/ranks/)
