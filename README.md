@@ -1,4 +1,4 @@
-## CodeWars - (JavaScript) :bomb: :computer:  🤯
+<h1 align="center"> CodeWars - (JavaScript) :bomb: :computer:  🤯 </h1>
 
 Hey, World!
 
