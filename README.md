@@ -1,6 +1,6 @@
-<img src="" >
-<h1 align="center"> CodeWars - (JavaScript) :bomb: :computer:  🤯 </h1>
-
+<p align="center"> <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" >
+<h1 align="center"> CodeWars - (JavaScript) :bomb: :computer:  🤯 </h1> 
+</p>
 <p>Hey, World!</p>
 
 Over here you will find some of my [CodeWars](https://www.codewars.com/) challenges done or at least on the way to be done.
